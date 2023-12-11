@@ -1,6 +1,6 @@
 import time
 import sqlite3
-import pandas as pd
+#import pandas as pd
 
 conn = sqlite3.connect('nyc_yellow_tiny.db')
 
