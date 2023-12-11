@@ -2,11 +2,12 @@ import time
 import sqlite3
 import pandas as pd
 
+conn = sqlite3.connect('nyc_yellow_tiny.db')
+
 #Creation database
 #data = pd.read_csv(r"D:\Study\бд\laba_3\nyc_yellow_tiny.csv")
 #data.to_sql('trips', conn, if_exists='replace', index=False)
 
-conn = sqlite3.connect('nyc_yellow_tiny.db')
 cursor = conn.cursor()
 q1 = 'SELECT VendorID, count(*) FROM trips GROUP BY 1;'
 q2 = 'SELECT passenger_count, avg(total_amount) FROM trips GROUP BY 1;'
