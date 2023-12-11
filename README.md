@@ -16,5 +16,5 @@
 
 2) Для больших данных
 
-![image](https://github.com/rolik00/laba_3/assets/148611487/d619d461-baba-4d64-a995-4134aca35cae)
-![image](https://github.com/rolik00/laba_3/assets/148611487/f8b42eb4-7d6b-476b-a31c-d1d434048cf4)
+![image](https://github.com/rolik00/laba_3/assets/148611487/c5fdc1f1-0ecb-407e-8c45-11173e1e98f2)
+![image](https://github.com/rolik00/laba_3/assets/148611487/fad3e2bb-01e7-4a40-93cb-76cc4de61d01)
